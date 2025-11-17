@@ -80,10 +80,12 @@ https://colab.research.google.com/drive/1Tyf5bgjFIoBndw1uAR_qThPcYqpacr_F?usp=sh
 
 
 # Output:
+```
 Enter arrival seperated by space5 5 5 5 6 6 7 8
 The Mean arrival rate is 5.875
 The Variance of arrival from feeder is 1.109
 The Standard deviation of arrival from feeder is 1.053
+```
 
 
 # Result: 
