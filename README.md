@@ -45,10 +45,12 @@ It is calculated as:
 13. Stop.
 
 
-# Program: 
+# Program:
+```
 Name:Sowmiya R
 Reg No: 25013295
 Slot Name: 3P1-1
+```
 
 ```
 import numpy as np
