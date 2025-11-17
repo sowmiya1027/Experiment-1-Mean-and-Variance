@@ -50,6 +50,7 @@ Name:Sowmiya R
 Reg No: 25013295
 Slot Name: 3P1-1
 
+```
 import numpy as np
 L=[int(i)for i in input("Enter arrival seperated by space").split()]
 N=len(L)
@@ -72,6 +73,7 @@ SD=np.sqrt(var)
 print(f"The Mean arrival rate is {mean:.3f}")
 print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
+```
 
 
 https://colab.research.google.com/drive/1Tyf5bgjFIoBndw1uAR_qThPcYqpacr_F?usp=sharing
